@@ -97,7 +97,7 @@ Bottom section:
 ## AI Disclosure
 
 AI tools were used to help understand Compose layout patterns and check syntax issues during development.
-All code was reviewed, adjusted, and tested manually to ensure it follows the assignment requirements and runs correctly.
+All code was reviewed and tested manually to ensure it follows requirements and runs correctly.
 
 
 
