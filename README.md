@@ -75,6 +75,7 @@ The assignment focuses on layout and component usage rather than implementing fu
 ## Screenshots
 
 Top section:
+
 <img width="452" height="902" alt="image" src="https://github.com/user-attachments/assets/1a012f67-ccab-4080-afce-db1299108545" />
 
 <img width="830" height="1051" alt="image" src="https://github.com/user-attachments/assets/32756c4c-7853-4053-8186-417104fba841" />
