@@ -76,11 +76,11 @@ The assignment focuses on layout and component usage rather than implementing fu
 
 Top section:
 
-![Top](screenshots/settings_top.png)
+<img width="830" height="1051" alt="image" src="https://github.com/user-attachments/assets/32756c4c-7853-4053-8186-417104fba841" />
 
 Bottom section:
 
-![Bottom](screenshots/settings_bottom.png)
+<img width="572" height="957" alt="image" src="https://github.com/user-attachments/assets/c0cd9aca-3b59-44b5-88ab-68c8bc53dd2f" />
 
 ---
 
@@ -96,6 +96,6 @@ Bottom section:
 
 AI tools were used to help understand Compose layout patterns and check syntax issues during development.
 All code was reviewed, adjusted, and tested manually to ensure it follows the assignment requirements and runs correctly.
-<img width="830" height="1051" alt="image" src="https://github.com/user-attachments/assets/32756c4c-7853-4053-8186-417104fba841" />
 
-<img width="572" height="957" alt="image" src="https://github.com/user-attachments/assets/c0cd9aca-3b59-44b5-88ab-68c8bc53dd2f" />
+
+
